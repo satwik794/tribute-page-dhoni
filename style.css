@@ -1,0 +1,34 @@
+body{
+    background-color: wheat;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+img{
+    float: right;
+    inline-size: auto;
+    border-radius: 600px;
+    height: 500px;
+    width: 400px;
+}
+img:hover{
+    scale:1.5;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+h2{
+    text-decoration:underline;
+    text-transform: capitalize
+}
+@import url('https://fonts.googleapis.com/css2?family=Lugrasimo&family=Philosopher:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+p{
+  font-family: "Lugrasimo", cursive;
+  font-weight: 400;
+  font-style: normal
+}
+footer p {
+    text-align:center;
+  }
+  
